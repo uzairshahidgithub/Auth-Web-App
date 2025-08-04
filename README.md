@@ -1,5 +1,5 @@
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/uzairshahidgithub/Auth-Web-App/blob/e129f22a4fcb9aa94aa09f8989d9f1e0f23d9695/auth-web-app.png))
 ## **Auth-Web-App** is a lightweight authentication based web application built for cybersecurity learning and vulnerability testing. This project is designed to simulate basic authentication flows while allowing penetration testers, ethical hackers, and security learners to practice bypass techniques in a controlled environment.
 
 ### Current Features
