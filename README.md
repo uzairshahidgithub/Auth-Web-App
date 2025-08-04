@@ -68,4 +68,4 @@ Open the browser and navigate to the local server path printed in terminal by po
 
 ## Support
 
-For support, email uzairrshahid@gmail.com or join our Slack channel.
+For support, email uzairrshahid@gmail.com or join our Discord Community.
